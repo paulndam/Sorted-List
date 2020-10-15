@@ -1,0 +1,12 @@
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/obj/Debug/netcoreapp3.1/Sorted-List.csprojAssemblyReference.cache
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/obj/Debug/netcoreapp3.1/Sorted-List.AssemblyInfoInputs.cache
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/obj/Debug/netcoreapp3.1/Sorted-List.AssemblyInfo.cs
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/obj/Debug/netcoreapp3.1/Sorted-List.csproj.CoreCompileInputs.cache
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/bin/Debug/netcoreapp3.1/Sorted-List.deps.json
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/bin/Debug/netcoreapp3.1/Sorted-List.runtimeconfig.json
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/bin/Debug/netcoreapp3.1/Sorted-List.runtimeconfig.dev.json
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/bin/Debug/netcoreapp3.1/Sorted-List.dll
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/bin/Debug/netcoreapp3.1/Sorted-List.pdb
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/obj/Debug/netcoreapp3.1/Sorted-List.dll
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/obj/Debug/netcoreapp3.1/Sorted-List.pdb
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Sorted-List/obj/Debug/netcoreapp3.1/Sorted-List.genruntimeconfig.cache
